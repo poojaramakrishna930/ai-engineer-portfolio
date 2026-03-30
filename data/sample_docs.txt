@@ -1,0 +1,20 @@
+Artificial intelligence is transforming industries worldwide.
+Machine learning enables systems to learn patterns from data without being explicitly programmed.
+Deep learning uses neural networks with many layers to model complex patterns.
+Natural language processing allows computers to understand and generate human language.
+Large language models are trained on vast amounts of text data from the internet.
+Retrieval-Augmented Generation combines a retrieval system with a language model for better answers.
+Vector databases store embeddings and enable semantic similarity search at scale.
+LangChain is a framework for building applications powered by large language models.
+LangGraph extends LangChain with stateful, cyclical agent workflows.
+HuggingFace provides thousands of open-source models for NLP, vision, and audio tasks.
+FastAPI is a modern Python framework for building high-performance REST APIs.
+Pydantic is used for data validation and enforcing structured outputs from LLMs.
+Embeddings are dense vector representations that capture semantic meaning of text.
+Cosine similarity measures the angle between two vectors to determine how similar they are.
+Fine-tuning adapts a pre-trained model to a specific domain using labelled data.
+Prompt engineering is the practice of crafting inputs to get better LLM outputs.
+Agents are LLM-powered systems that can reason, plan, and use tools autonomously.
+The ReAct pattern combines reasoning and acting in an interleaved loop for agents.
+Chunking is the process of splitting documents into smaller pieces for RAG pipelines.
+HNSW is a graph-based index structure used in vector databases for fast approximate nearest neighbour search.
