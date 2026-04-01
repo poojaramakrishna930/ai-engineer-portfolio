@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is Retrieval-Augmented Generation?",
+    "ground_truth": "Retrieval-Augmented Generation (RAG) combines a retrieval system with a language model. It fetches relevant documents at query time and passes them as context to the LLM, reducing hallucinations and improving factual accuracy.",
+    "context_keywords": ["retrieval", "generation", "language model", "hallucination"]
+  },
+  {
+    "question": "How does a vector database store and search embeddings?",
+    "ground_truth": "Vector databases convert text into dense numerical vectors using embedding models, store them with an HNSW index for fast approximate nearest neighbour search, and retrieve the most semantically similar vectors using cosine similarity.",
+    "context_keywords": ["vector", "embedding", "HNSW", "cosine similarity", "similarity search"]
+  },
+  {
+    "question": "What is the difference between BM25 and dense retrieval?",
+    "ground_truth": "BM25 is a sparse keyword-based retrieval algorithm that scores documents by term frequency and rarity. Dense retrieval uses embedding models to find semantically similar content. BM25 excels at exact keyword matches while dense retrieval handles synonyms and paraphrased queries.",
+    "context_keywords": ["BM25", "dense", "keyword", "embedding", "semantic"]
+  },
+  {
+    "question": "What is LangGraph used for?",
+    "ground_truth": "LangGraph is a framework for building stateful, cyclical agent workflows. It extends LangChain with a StateGraph that allows nodes, conditional edges, cycles, and checkpointing — enabling complex multi-agent systems that can loop and maintain state.",
+    "context_keywords": ["LangGraph", "stateful", "agent", "StateGraph", "nodes"]
+  },
+  {
+    "question": "What is chunking and why does chunk overlap matter?",
+    "ground_truth": "Chunking is the process of splitting documents into smaller pieces before embedding for RAG. Chunk overlap means adjacent chunks share some characters at their boundary, preserving context that would otherwise be lost when a sentence spans two chunks.",
+    "context_keywords": ["chunking", "overlap", "boundary", "context", "sentence"]
+  }
+]
