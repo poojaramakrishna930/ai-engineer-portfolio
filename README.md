@@ -85,7 +85,7 @@ python src/filename.py
 ## 📫 Let's connect
 
 - LinkedIn: www.linkedin.com/in/pooja-r-k-a369a22a1
-- Open to: Remote AI engineering roles (India + global) · On-site Mysuru/Bangalore
+- Open to: Remote AI engineering roles (India + global) · On-site/Remote Mysuru/Bangalore
 - Email: poojaramakrishna930@gmail.com
 
 ---
